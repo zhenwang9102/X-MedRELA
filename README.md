@@ -1,7 +1,11 @@
 # X-MedRELA
-Source code for ACL'20 paper "[Rationalizing Medical Relation Prediction from Corpus-level Statistics](https://zhenwang9102.github.io/pdf/ACL2020_ZW_X_MedRELA.pdf)"
+Source code for ACL 2020 paper "[Rationalizing Medical Relation Prediction from Corpus-level Statistics](https://zhenwang9102.github.io/pdf/ACL2020_ZW_X_MedRELA.pdf)".
 
 ## Introduction
+
+<p align="center">
+<img src="toy_example.pdf" alt="An example" title="An example"/>
+</p>
 
 ## Dataset
 
