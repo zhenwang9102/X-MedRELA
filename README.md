@@ -5,11 +5,11 @@ Source code for ACL 2020 paper "[Rationalizing Medical Relation Prediction from 
 
 
 <p align="center">
-<img src="toy_example.png" alt="a toy example" width="550" title="A Toy Example"/>
+<img src="toy_example.png" alt="a toy example" width="500" title="A Toy Example"/>
 </p>
 
 <p align="center">
-<img src="framwork_workflow.png" alt="workflow" width="600" title="Framework Workflow"/>
+<img src="framwork_workflow.png" alt="workflow" width="550" title="Framework Workflow"/>
 </p>
 
 ## Dataset
