@@ -4,7 +4,7 @@ Source code for ACL 2020 paper "[Rationalizing Medical Relation Prediction from 
 ## Introduction
 
 <p align="center">
-<img src="toy_example.png" alt="a toy example" width="600" title="A Toy Example"/>
+<img src="toy_example.jpg" alt="a toy example" width="600" title="A Toy Example"/>
 </p>
 
 <p align="center">
