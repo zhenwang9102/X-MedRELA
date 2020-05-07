@@ -8,7 +8,7 @@ Source code for ACL 2020 paper "[Rationalizing Medical Relation Prediction from 
 </p>
 
 <p align="center">
-<img src="framwork_workflow.png" alt="workflow" width="400" title="Framework Workflow"/>
+<img src="framwork_workflow.png" alt="workflow" width="500" title="Framework Workflow"/>
 </p>
 
 ## Dataset
