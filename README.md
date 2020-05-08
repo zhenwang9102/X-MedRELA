@@ -22,7 +22,7 @@ Our framework is inspired by existing cognitive theories on human memory recall 
 
 ## Citation
 ```
-@inproceedings{wang2020,
+@inproceedings{wang2020rationalizing,
   title={Rationalizing Medical Relation Prediction from Corpus-level Statistics},
   author={Wang, Zhen and Lee, Jennifer and Lin, Simon and Sun, Huan},
   booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
