@@ -8,9 +8,13 @@ Source code for ACL 2020 paper "[Rationalizing Medical Relation Prediction from 
 <img src="toy_example.png" alt="a toy example" width="500" title="A Toy Example"/>
 </p>
 
+In this project, we propose an interpretable framework to rationalize medical relation prediction based on corpus-level statistics. An toy example to illustrate our intuition is shown above.
+
 <p align="center">
 <img src="framwork_workflow.png" alt="workflow" width="550" title="Framework Workflow"/>
 </p>
+
+Our framework is inspired by existing cognitive theories on human memory recall and recognition, and an be easily understood by users as well as provide reasonable explanations to justify its prediction. Its workflow is shown above. Essentially, it leverages corpus-level statistics to recall associative contexts and recognizes their relational connections as model rationales.
 
 ## Dataset
 
