@@ -20,9 +20,9 @@ Our framework is inspired by existing cognitive theories on human memory recall 
 
 ## Run
 To train the model, simply run the following scrips:
-
+'''
   > bash ./src/bash.sh
-
+'''
 ## Citation
 ```
 @inproceedings{wang2020rationalizing,
