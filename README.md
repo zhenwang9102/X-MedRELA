@@ -19,6 +19,7 @@ Our framework is inspired by existing cognitive theories on human memory recall 
 ## Dataset
 
 ## Run
+To train the model, simply run the following scrips:
 > bash ./src/bash.sh
 
 ## Citation
