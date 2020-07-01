@@ -19,6 +19,7 @@ Our framework is inspired by existing cognitive theories on human memory recall 
 ## Dataset
 
 ## Run
+> bash ./src/bash.sh
 
 ## Citation
 ```
