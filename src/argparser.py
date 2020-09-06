@@ -88,6 +88,7 @@ def Config():
     # parser.add_argument("--log_name", type=str, default='empty.txt')
     parser.add_argument('--restore_model_epoch', type=int, default=600)
     parser.add_argument('--stored_model_path', type=str, default='')
+    parser.add_argument('--stored_preds_path', type=str, default='')
 
     parser.add_argument("--save_best", type='bool', default=True, help='save model in the best epoch or not')
     parser.add_argument("--save_dir", type=str, default='./saved_models', help='save model in the best epoch or not')
@@ -99,8 +100,6 @@ def Config():
     # parser.add_argument('--train_single', type='bool')
     # parser.add_argument('--normalize', type='bool', default=False)
     # parser.add_argument('--random_test', type='bool', default=True)
-
-    parser.add_argument('--target_masking', type='bool', default=True)
 
     args = parser.parse_args()
     print('args: ', args)
