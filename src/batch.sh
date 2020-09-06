@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+cd ./src
+
 bi_rela="treatment"
 rand_seed=4219
 num_ctx=32
