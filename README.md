@@ -17,8 +17,15 @@ In this project, we propose an interpretable framework to rationalize medical re
 Our framework is inspired by existing cognitive theories on human memory recall and recognition, and an be easily understood by users as well as provide reasonable explanations to justify its prediction. Its workflow is shown above. Essentially, it leverages corpus-level statistics to recall associative contexts and recognizes their relational connections as model rationales.
 
 ## Dataset
+You can download the data from the following link: [Corpus-level Statistics](https://drive.google.com/file/d/1nwVPdxP1p7NkrD6N3isSGTL2iJtv9r8u/view?usp=sharing), [Labeled Relation Data](https://drive.google.com/file/d/1iqT8oswl3E9-c8Iirv7UAKD5GgQIhlT8/view?usp=sharing), [Relation List](https://drive.google.com/file/d/10ijyAY0OXCCVEXP4n5clRpMpKMc6eMCb/view?usp=sharing), [Relation Triples](https://drive.google.com/file/d/1TXVcAzzH7fq1kAH7B3PWfeWwgRhh_c_b/view?usp=sharing).
 
 ## Run
+To train the model, simply run the following scrips:
+```
+> bash ./src/bash.sh
+```
+
+If you have any questions, please feel free to contact us! Also, feel free to check other tools in our group (https://github.com/sunlab-osu) 😊
 
 ## Citation
 ```
